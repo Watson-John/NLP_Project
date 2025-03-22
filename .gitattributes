@@ -1,1 +1,2 @@
 Models/Trained_on_Amazon_Reviews/Models/* filter=lfs diff=lfs merge=lfs -text
+Models/Trained_on_Amazon_Reviews/Models/glove/* filter=lfs diff=lfs merge=lfs -text
